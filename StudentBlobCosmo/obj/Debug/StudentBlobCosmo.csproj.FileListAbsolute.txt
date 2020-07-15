@@ -1,0 +1,230 @@
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.dll.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.exe
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.exe.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.rsp
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.exe
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.exe.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.rsp
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.AppContext.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Console.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Net.Http.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.exe
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.exe.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.rsp
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Antlr3.Runtime.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.SqlServer.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Newtonsoft.Json.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Owin.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Helpers.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Mvc.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Optimization.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Razor.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\WebGrease.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Helpers.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Mvc.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Optimization.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Razor.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Newtonsoft.Json.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Antlr3.Runtime.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.SqlServer.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.csprojAssemblyReference.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.csproj.CoreCompileInputs.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.csproj.CopyComplete
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Cosmos.CRTCompat.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.dll.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\StudentBlobCosmo.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.exe.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csc.rsp
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.exe.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\csi.rsp
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.AppContext.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Console.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Net.Http.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.exe.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\vbc.rsp
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Antlr3.Runtime.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\AzureTablesBusiness.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.SqlServer.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Newtonsoft.Json.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Helpers.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Mvc.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Optimization.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Razor.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\ViewModel.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\WebGrease.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\AzureTablesBusiness.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\AzureTablesBusiness.dll.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\ViewModel.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Helpers.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Mvc.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Optimization.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.Razor.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Newtonsoft.Json.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Antlr3.Runtime.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\EntityFramework.SqlServer.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.csprojAssemblyReference.cache
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.csproj.CopyComplete
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo\obj\Debug\StudentBlobCosmo.pdb

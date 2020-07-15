@@ -1,0 +1,129 @@
+﻿@model IEnumerable<StudentBloCosmo.ViewModel.Student>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+        color: white;
+    }
+
+    th {
+        background-color: #4CAF50;
+        color: white;
+    }
+</style>
+<h2>Students  List</h2>
+<br />
+@using (Html.BeginForm("StudentsList", "Students", FormMethod.Get))
+{
+
+<div class="form-group">
+    @Html.TextBox("searchParam")<input type="submit" value="Search" />
+    <input type="submit" value="Search" />
+</div>
+}
+<br />
+<p>
+    @Html.ActionLink("Add New Student", "Create")
+</p>
+    <table class="table text-white">
+        <tr>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.studentNumber)
+            </th>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.studentName)
+            </th>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.surname)
+            </th>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.telphone_No)
+            </th>
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.mobile)
+            </th> 
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">
+                @Html.DisplayNameFor(model => model.imageUri)
+            </th>
+
+            <th style="background-color: #B8DBFD;border: 1px solid #ccc">@Html.DisplayNameFor(model => model.IsActive)</th>
+            <th>Actionts</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.studentNumber)
+            </td>
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.studentName)
+            </td>
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.surname)
+            </td>
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.telphone_No)
+            </td>
+            <td style="width:120px;border: 1px solid #ccc">
+                @Html.DisplayFor(modelItem => item.mobile)
+            </td>
+            <td><img src="@item.imageUri" alt="@item.imageUri"
+                 style="height:100px; width: auto;" /></td>
+
+            <td style="width:120px;border: 1px solid #ccc">
+                @if (item.IsActive == true)
+                {
+                    <span style="color:green;" class="glyphicon glyphicon-flag"></span>
+                }
+                else
+                {
+            <span style="color:red;" class="glyphicon glyphicon-flag"></span>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Update", "Edit", new { DocumentId = item.Id })
+                @Html.ActionLink(" De-Activate", "De_Activate", new { DocumentId = item.Id })
+                @Html.ActionLink(" Delete", "DeLete", new { DocumentId = item.Id })
+                
+            </td>
+        </tr>
+        }
+
+    </table>
+
+@using (Html.BeginForm("CreatePdf", "Home", FormMethod.Post))
+{
+    <input type="hidden" name="GridHtml" />
+    <input type="submit" id="btnSubmit" value="Create Pdf" />
+}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#btnSubmit").click(function () {
+            $("input[name='GridHtml']").val($("#Grid").html());
+        });
+    });
+</script>

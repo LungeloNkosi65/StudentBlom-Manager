@@ -1,0 +1,27 @@
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\StudentBlobCosmo.ViewModel.csprojAssemblyReference.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\StudentBlobCosmo.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\StudentBlobCosmo.ViewModel.csproj.CopyComplete
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\StudentBlobCosmo.ViewModel.csproj.CopyComplete
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.ViewModel\obj\Debug\StudentBlobCosmo.ViewModel.csprojAssemblyReference.cache

@@ -1,0 +1,106 @@
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.dll.config
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Table.Client.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Buffers.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Memory.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.Permissions.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ValueTuple.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\ViewModel.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\ViewModel.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Spatial.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Buffers.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Memory.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ValueTuple.xml
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\StudentBlobCosmo.Service.csprojAssemblyReference.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\StudentBlobCosmo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\StudentBlobCosmo.Service.csproj.CopyComplete
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\AzureTablesBusiness.dll
+C:\Users\Sivuyise\source\repos\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\AzureTablesBusiness.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Cosmos.CRTCompat.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.dll.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\AzureTablesBusiness.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Table.Client.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Buffers.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Memory.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.Permissions.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ValueTuple.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\ViewModel.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\ViewModel.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.Spatial.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Buffers.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Memory.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\bin\Debug\System.ValueTuple.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\StudentBlobCosmo.Service.csprojAssemblyReference.cache
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\StudentBlobCosmo.Service.csproj.CopyComplete
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\AzureTablesBusiness.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\StudentBlobCosmo\StudentBlobCosmo\StudentBlobCosmo.Business\obj\Debug\AzureTablesBusiness.pdb

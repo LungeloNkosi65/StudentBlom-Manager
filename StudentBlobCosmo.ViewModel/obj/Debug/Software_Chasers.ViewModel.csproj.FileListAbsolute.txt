@@ -1,0 +1,13 @@
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\obj\Debug\Software_Chasers.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\obj\Debug\Software_Chasers.ViewModel.csproj.CopyComplete
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Sivuyise\3D Objects\New folder\t3cosmoandblobstorage-master\ViewModel\obj\Debug\ViewModel.pdb
